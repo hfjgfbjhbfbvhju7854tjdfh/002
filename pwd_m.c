@@ -2,7 +2,7 @@
 #include <string.h>
 int main (int cn, char* com[], char* ph[] )
 {
-printf ("Hello new program\n ");
+printf ("Hello\n ");
 if (ph[0] == 0 ) return -1;
 
 while (*ph) {
